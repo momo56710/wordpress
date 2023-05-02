@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Understanding the Role of In-Game Leader in Valorant Esports Teams	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>esports</description>
+	<lastBuildDate>Tue, 02 May 2023 09:47:55 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+	<item>
+		<title>
+		By: sen tenz		</title>
+		<link>./../index.html#comment-2</link>
+
+		<dc:creator><![CDATA[sen tenz]]></dc:creator>
+		<pubDate>Tue, 02 May 2023 09:47:55 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../../index.html?p=62#comment-2</guid>
+
+					<description><![CDATA[thank you that was helpfull]]></description>
+			<content:encoded><![CDATA[<p>thank you that was helpfull</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
